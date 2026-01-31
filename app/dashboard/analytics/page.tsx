@@ -1,6 +1,8 @@
+import React from 'react'
+
 const Analytics = () => {
     return (
-        <div>Analytics</div>
+        <div>Page</div>
     )
 }
 export default Analytics
